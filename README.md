@@ -11,8 +11,6 @@ O Bootcamp GFT Start #5 .NET é um programa gratuito para formação e recrutame
 
  ##### Links
  [Inscrição](https://web.dio.me/track/gft-start-5-net)
- 
  [DIO](https://www.dio.me/)
- 
  [GFT](https://www.gft.com/br/pt)
  
